@@ -1,0 +1,13 @@
+BasedOnStyle: LLVM
+ColumnLimit: 120
+IndentWidth: 4
+
+AlignAfterOpenBracket: DontAlign
+AlignConsecutiveAssignments: true
+AlignConsecutiveDeclarations: true
+AlignConsecutiveMacros: true
+AlignEscapedNewlines: Left
+
+BreakBeforeBraces: Custom
+BraceWrapping:
+  AfterFunction: true
